@@ -3,5 +3,8 @@
 
     <string name="hello">Hello World, NeedForAsyncTaskActivity!</string>
     <string name="app_name">NeedForAsyncTask</string>
+    <string name="button1">Button 1</string>
+    <string name="button2">Button 2</string>
+    <string name="prompt">Waiting to exhale &#8230;</string>
 
 </resources>
